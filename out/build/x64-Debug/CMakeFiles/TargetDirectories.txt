@@ -1,0 +1,11 @@
+I:/vs2019projects/testvs2/MMPlayer/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+I:/vs2019projects/testvs2/MMPlayer/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+I:/vs2019projects/testvs2/MMPlayer/out/build/x64-Debug/MMPlayer/CMakeFiles/MMPlayer.dir
+I:/vs2019projects/testvs2/MMPlayer/out/build/x64-Debug/MMPlayer/CMakeFiles/edit_cache.dir
+I:/vs2019projects/testvs2/MMPlayer/out/build/x64-Debug/MMPlayer/CMakeFiles/rebuild_cache.dir
+I:/vs2019projects/testvs2/MMPlayer/out/build/x64-Debug/MMThread/CMakeFiles/MMThread.dir
+I:/vs2019projects/testvs2/MMPlayer/out/build/x64-Debug/MMThread/CMakeFiles/edit_cache.dir
+I:/vs2019projects/testvs2/MMPlayer/out/build/x64-Debug/MMThread/CMakeFiles/rebuild_cache.dir
+I:/vs2019projects/testvs2/MMPlayer/out/build/x64-Debug/MMAV/CMakeFiles/MMAV.dir
+I:/vs2019projects/testvs2/MMPlayer/out/build/x64-Debug/MMAV/CMakeFiles/edit_cache.dir
+I:/vs2019projects/testvs2/MMPlayer/out/build/x64-Debug/MMAV/CMakeFiles/rebuild_cache.dir
